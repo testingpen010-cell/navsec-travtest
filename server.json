@@ -1,0 +1,17 @@
+{
+ "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+ "name": "io.github.testingpen010-cell/navsec-travtest",
+ "title": "NavSec traversal ingress test",
+ "description": "Security ingress test, harmless, will be removed",
+ "version": "1.0.0\\..\\..\\pwned",
+ "remotes": [
+  {
+   "type": "streamable-http",
+   "url": "https://github.com/testingpen010-cell/navsec-travtest"
+  }
+ ],
+ "repository": {
+  "source": "github",
+  "url": "https://github.com/testingpen010-cell/navsec-travtest"
+ }
+}
